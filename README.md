@@ -14,3 +14,8 @@ Bu loyiha Django REST Framework yordamida yaratilgan ikkita API ni o'z ichiga ol
 ![alt text](image.png)
 
 django admin uchun yangi dizayin ishlatdim
+
+![alt text](image-1.png)
+
+
+Bu adminkani nomi unfold yaqinda chiqqan desamham boladi
