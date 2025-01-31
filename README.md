@@ -33,4 +33,4 @@ bu day yani kuni hisoblaydi
 
 ![alt text](image-4.png)
 
-bunisi esa lotin tilida kiritilgan sozlarni kirilcha qilib beradi                                                                       
+bunisi esa lotin tilida kiritilgan sozlarni kirilcha qilib beradi                                                               
