@@ -11,3 +11,6 @@ Bu loyiha Django REST Framework yordamida yaratilgan ikkita API ni o'z ichiga ol
    git clone https://github.com/sizning-repo-manzilingiz.git
    cd task-eurosoft
 
+![alt text](image.png)
+
+django admin uchun yangi dizayin ishlatdim
