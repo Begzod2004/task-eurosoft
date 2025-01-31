@@ -19,3 +19,18 @@ django admin uchun yangi dizayin ishlatdim
 
 
 Bu adminkani nomi unfold yaqinda chiqqan desamham boladi
+
+
+projectga keladigan bolsak faqatgina 2 ta api chiqardim ikkalasiham post
+
+![alt text](image-2.png)
+
+korishingiz munkun
+
+![alt text](image-3.png)
+
+bu day yani kuni hisoblaydi 
+
+![alt text](image-4.png)
+
+bunisi esa lotin tilida kiritilgan sozlarni kirilcha qilib beradi
